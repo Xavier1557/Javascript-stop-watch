@@ -1,0 +1,12 @@
+h1, h2 {
+  text-transform: uppercase;
+  color: white;
+  
+}
+
+.wrapper{
+  text-align: center;
+  background-color: orange;
+  justify-content: center;
+}
+
